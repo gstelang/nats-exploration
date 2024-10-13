@@ -26,3 +26,10 @@ nats pub hello world -s nats://0.0.0.0:4222
 ```
 
 # NATS vs Kafka
+
+1. At least once Semantics
+2. Exactly once semantics
+3. Distributed architecture.
+4. Message retention and replay
+5. Consumer models
+6. Use cases
